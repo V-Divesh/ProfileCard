@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { Button } from "@mui/material";
 import { CiLocationOn } from "react-icons/ci";
 import coverimg from "./asserts/whydigit_cover.jfif";
 import profileimg from "./asserts/why_digit_system_private_limited_logo.jfif";
