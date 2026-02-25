@@ -5,7 +5,7 @@ import profileimg from "./asserts/why_digit_system_private_limited_logo.jfif";
 
 const Profile = () => {
   const [follow, setFollowing] = useState(true);
-  const [followercount, setfollowercount] = useState(55);
+  const [followercount, setfollowercount] = useState(555);
   const [followingcount] = useState(0);
   const handleChangeButton = () => {
     setFollowing(!follow);
